@@ -7,9 +7,9 @@
 
 
 This project was about:
-- getting to know ASP.NET
-- use MVC model
-- use form that takes data and adds the data to other page
+- building a simple ASP.NET application
+- using MVC model
+- using a form that takes data and adds the data to another page
 - how to use <a href="https://bootswatch.com/" target="_blank">Bootswatch</a> templates
 
 
