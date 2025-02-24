@@ -1,7 +1,7 @@
 # $\textsf{\color{#c604c9}{Movie Page}}$ 🎬
 
 #### Framework: ASP.NET
-![home page](publish/wwwroot/img/home)
+![home page](publish/wwwroot/img/home.png)
 
 
 
