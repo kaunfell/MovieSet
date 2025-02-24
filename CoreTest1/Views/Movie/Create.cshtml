@@ -1,0 +1,49 @@
+@model CoreTest1.Models.MovieViewModel
+
+@*
+
+*@
+@{
+    
+}
+
+
+
+<h2>Create</h2>
+
+
+
+<div class="row">
+    <div class="col-6">
+        <div class="card">
+            <div class="card-header">
+                <h4>Create a new movie</h4>
+            </div>    
+        
+        <div class="card-body">
+            
+        
+        <form asp-asp-controller="Movie" asp-action="CreateMovie" method="post">
+            <div class="mb-3">
+                <label class="form-label">Movie Title</label>
+                <input asp-for=MovieTitle type="text" placeholder="movie title..." class="form-control"/>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Director</label>
+                <input asp-for=Director type="text" placeholder="director's name..." class="form-control">
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Year</label>
+                <input asp-for=Year type="number" placeholder="release year..." class="form-control">
+            </div>
+            <div class="mb-3">
+                <button type="" class="btn btn-primary">Save</button>
+            </div>
+        </form>
+
+
+            </div>
+        </div> <!--card end-->
+    </div>
+</div>
+

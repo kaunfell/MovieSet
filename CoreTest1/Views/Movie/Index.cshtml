@@ -1,0 +1,38 @@
+@model List<CoreTest1.Models.MovieViewModel>
+
+@*
+
+*@
+@{
+    
+}
+
+
+<div class="container my-4">
+    <h2>Your list</h2>
+    <p>Create your list on <a asp-controller="Movie" asp-action="Create">Create page</a> and see it here.</p>   
+</div>
+
+
+
+
+<ul>
+    @foreach(var movie in Model)
+    {
+       <div class="card my-2 w-25 ps-1"> 
+        <li>
+        Title: @movie.MovieTitle 
+        <br>
+        Director:  @movie.Director
+        <br>
+        (@movie.Year)</li>
+      </div>  
+    }
+</ul>
+
+
+
+
+
+
+

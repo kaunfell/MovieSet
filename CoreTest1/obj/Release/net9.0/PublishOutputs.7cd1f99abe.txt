@@ -1,0 +1,7 @@
+C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\publish\CoreTest1.exe
+C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\publish\appsettings.Development.json
+C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\publish\appsettings.json
+C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\publish\CoreTest1.dll
+C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\publish\CoreTest1.deps.json
+C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\publish\CoreTest1.runtimeconfig.json
+C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\publish\CoreTest1.pdb
