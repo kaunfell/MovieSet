@@ -96,3 +96,4 @@ C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\CoreTest1\obj\Debug\ne
 C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\CoreTest1\obj\Debug\net9.0\ref\CoreTest1.dll
 C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\CoreTest1\obj\Debug\net9.0\compressed\z7192vge1l-snz4oi22n2.gz
 C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\CoreTest1\obj\Debug\net9.0\compressed\dhf5teojpf-815mj1lzx9.gz
+C:\Users\Jenny\.vscode\VS_projekti_Omat\ASP.NET\CoreTest1\CoreTest1\obj\Debug\net9.0\CoreTest1.sourcelink.json

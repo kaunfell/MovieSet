@@ -1441,6 +1441,88 @@
       ]
     },
     {
+      "Route": "img/cinema.ljemeo8a8u.png",
+      "AssetFile": "img/cinema.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"394CNlfHPzmZ5MofTRNp6nAOJLtPVnh/YFls+xvxdPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 13:43:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ljemeo8a8u"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-394CNlfHPzmZ5MofTRNp6nAOJLtPVnh/YFls+xvxdPA="
+        },
+        {
+          "Name": "label",
+          "Value": "img/cinema.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/cinema.png",
+      "AssetFile": "img/cinema.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"394CNlfHPzmZ5MofTRNp6nAOJLtPVnh/YFls+xvxdPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 13:43:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-394CNlfHPzmZ5MofTRNp6nAOJLtPVnh/YFls+xvxdPA="
+        }
+      ]
+    },
+    {
       "Route": "img/dragon.4duyiajj3q.jpg",
       "AssetFile": "img/dragon.jpg",
       "Selectors": [],
@@ -1519,6 +1601,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-OHh4GAWmoS1Oy2etDxZ0Nst6bEwIJ/zflpjFVzUPlXQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/home.png",
+      "AssetFile": "img/home.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"98aSQGhyqb2tVThVgVGjTVAC5648mY7vm5MaywnCne0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 14:18:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-98aSQGhyqb2tVThVgVGjTVAC5648mY7vm5MaywnCne0="
+        }
+      ]
+    },
+    {
+      "Route": "img/home.pwzh94f1rd.png",
+      "AssetFile": "img/home.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"98aSQGhyqb2tVThVgVGjTVAC5648mY7vm5MaywnCne0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 14:18:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pwzh94f1rd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-98aSQGhyqb2tVThVgVGjTVAC5648mY7vm5MaywnCne0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/home.png"
         }
       ]
     },

@@ -29,8 +29,16 @@
       "PackagePath": "staticwebassets\\img\\cat2.jpg"
     },
     {
+      "Id": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\cinema.png",
+      "PackagePath": "staticwebassets\\img\\cinema.png"
+    },
+    {
       "Id": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\dragon.jpg",
       "PackagePath": "staticwebassets\\img\\dragon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\home.png",
+      "PackagePath": "staticwebassets\\img\\home.png"
     },
     {
       "Id": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\man.jpg",

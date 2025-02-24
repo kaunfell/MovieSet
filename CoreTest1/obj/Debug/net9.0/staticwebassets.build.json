@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "t1BstxqBecvpALEOakL+3ZVfDFGHMebKEAExOvU9O3A=",
+  "Hash": "S++kW2Wa6VXn5MenSYUqBMN5hzCkq7M/J1I5qZZOqXY=",
   "Source": "CoreTest1",
   "BasePath": "_content/CoreTest1",
   "Mode": "Default",
@@ -1550,6 +1550,27 @@
       "OriginalItemSpec": "wwwroot\\img\\cat2.jpg"
     },
     {
+      "Identity": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\cinema.png",
+      "SourceId": "CoreTest1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\",
+      "BasePath": "_content/CoreTest1",
+      "RelativePath": "img/cinema#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ljemeo8a8u",
+      "Integrity": "394CNlfHPzmZ5MofTRNp6nAOJLtPVnh/YFls+xvxdPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cinema.png"
+    },
+    {
       "Identity": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\dragon.jpg",
       "SourceId": "CoreTest1",
       "SourceType": "Discovered",
@@ -1569,6 +1590,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\dragon.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\home.png",
+      "SourceId": "CoreTest1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\",
+      "BasePath": "_content/CoreTest1",
+      "RelativePath": "img/home#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pwzh94f1rd",
+      "Integrity": "98aSQGhyqb2tVThVgVGjTVAC5648mY7vm5MaywnCne0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\home.png"
     },
     {
       "Identity": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\man.jpg",
@@ -4611,6 +4653,88 @@
       ]
     },
     {
+      "Route": "img/cinema.ljemeo8a8u.png",
+      "AssetFile": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\cinema.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"394CNlfHPzmZ5MofTRNp6nAOJLtPVnh/YFls+xvxdPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 13:43:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ljemeo8a8u"
+        },
+        {
+          "Name": "label",
+          "Value": "img/cinema.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-394CNlfHPzmZ5MofTRNp6nAOJLtPVnh/YFls+xvxdPA="
+        }
+      ]
+    },
+    {
+      "Route": "img/cinema.png",
+      "AssetFile": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\cinema.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"394CNlfHPzmZ5MofTRNp6nAOJLtPVnh/YFls+xvxdPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 13:43:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-394CNlfHPzmZ5MofTRNp6nAOJLtPVnh/YFls+xvxdPA="
+        }
+      ]
+    },
+    {
       "Route": "img/dragon.4duyiajj3q.jpg",
       "AssetFile": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\dragon.jpg",
       "Selectors": [],
@@ -4689,6 +4813,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-OHh4GAWmoS1Oy2etDxZ0Nst6bEwIJ/zflpjFVzUPlXQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/home.png",
+      "AssetFile": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\home.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"98aSQGhyqb2tVThVgVGjTVAC5648mY7vm5MaywnCne0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 14:18:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-98aSQGhyqb2tVThVgVGjTVAC5648mY7vm5MaywnCne0="
+        }
+      ]
+    },
+    {
+      "Route": "img/home.pwzh94f1rd.png",
+      "AssetFile": "C:\\Users\\Jenny\\.vscode\\VS_projekti_Omat\\ASP.NET\\CoreTest1\\CoreTest1\\wwwroot\\img\\home.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"98aSQGhyqb2tVThVgVGjTVAC5648mY7vm5MaywnCne0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 14:18:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pwzh94f1rd"
+        },
+        {
+          "Name": "label",
+          "Value": "img/home.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-98aSQGhyqb2tVThVgVGjTVAC5648mY7vm5MaywnCne0="
         }
       ]
     },
